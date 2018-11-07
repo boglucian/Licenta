@@ -1,0 +1,68 @@
+2-5 jucatori vor intra in camera tematica si vor avea la dispozitie 60 de minute pentru a gasi secretele si a evada.
+
+Pas 1. Clasic
+
+In camera se va afla o tabla "whiteboard" pe unul dintre pereti. Pe tabla se vor afla scrise diverse formule matematice si chimice.
+Sub tabla se afla un burete. Jucatorii vor trebui sa stearga tabla pentru a gasi un mesaj scris cu markerul permanent ascuns printre formule.
+Mesajul va fi "you are supervised, cover the cameras"
+
+Pas 2. Electronic
+
+In 3 din colturile camerei se afla camere de supraveghere false. In interiorul camerelor se va afla cate un senzor de proximitate setat pe distante f mici(~10cm).
+Pentru a avea acces la camerele de supraveghere jucatorii vor folosi o scara mica cu 3 trepte si vor acoperi cele 3 camere cu folii aderente. 
+Odata acoperite, un electromagnet va fi declansat si va deschide un dulap metalic tip vestiar.
+
+Pas 3. Electronic
+
+In dulap se vor gasi cateva halate de chimist. In buzunarul unuia dintre ele se va afla un card de identificare. In camera se va afla un birou cu sertare.
+Pe birou se afla o sectiune de dimensiunea cardului pe care scrie "ID HERE".
+ Cardul va fi plasat in locul indicat si va declansa un un joc de lumini al unei lampe aflate pe birou.
+Unul din sertare este inschis cu lacat cu culori. Culorile indicate de lampa vor fi puse in lacat si acesta va deschide un sertar.
+
+
+Pas 4. Electronic
+
+Inauntru se afla o telecomanda impreuna cu un bilet . Din mesajul de pe bilet reiese ca va trebui sa cautam in unul din multele dosare asezate pe o etajera. 
+Din dosar aflam ca  trebuie sa folosim telecomanda in combinatie cu tablourile din camera.
+Cand un senzor IR este activat, in rama tabloului se va aprinde un led pentru semnalizare. 
+Odata declansati toti senzorii infrared lumina din camera va fi stinsa pentru un interval de 10 secunde pentru a atrage privirea catre un monitor aflat pe birou ce acum se aprinde.
+Monitorul impreuna cu o tastatura si un mouse se afla pe birou inca de la inceputul jocului.
+
+Pas 5. Clasic
+
+Pe monitor apare mesajul "LOG IN" ( Va fi nevoie de o parola pentru identificare.)sub poza celui ce se logheaza, unul din chimisti din echipa.
+Pe usa, se afla o lista cu schimbul de ture, unde apar numele oamenilor de stiinta langa poza lor. De pe aceasta lista se afla numele chimistului si se pune ca si parola.
+In calculator se afla un fisier in care se afla o multime de alte fisiere pline cu inregistrari video de cateva secunde sau minute.
+Sub mouse/tastatura se afla mesajul "dont forget D1.3.10.18) 
+Printre inregistrari se afla una numita la fel ca in mesaj.
+Se va deschide inregistrarea unde apare unul din oamenii de stiinta ce aseaza anumite obiecte cu mare grija in anumite locuri din camera.
+
+
+Pas 6. Electronic
+
+Obiectele ce apar pe inregistrare vor fi asezate conform instructiunilor.
+Ordinea corecta va declansa un electromagnet ce deschide un sertar/dulap.
+
+Pas 7. Clasic
+
+In sertar/dulap se afla o folie transparenta insemnata in anumite locuri.
+In camera, pe unul dn pereti se afla o harta mare a constelatiilor.
+Folia se plaseaza deasupra hartii si va dezvalui o serie de coduri.
+
+Pas 8. Electronic nefinalizat
+
+Codurile de sus vor fi puse intr-o tastatura ce are si indicatie lcd ce ne zice daca am pus codul corect sau nu.
+Codul corect deschide un paravan unde se afla un panou de comanda ce contine 3 segmente. 
+Segmentul 1: gauri in care trebuiesc introduse mufe intr-o ordine a culorilor. Se va activa segnetul doi
+Segmentul 2: butoane "switch" ce asezate in ordinea corecta declanseaza segmentul 3
+Segmentul 3: 4 butoane cu sageti: stanga, dreapta, sus, jos. Apasate intr-o segventa definita vor deschide sertar unde se afla dosar "top secret".
+
+.
+.
+.
+.
+Alte idei:
+
+Umplerea unor bazine cu apa pana la un anumit nivel. Ne ajutam de senzori de nivel rezistivi sau capacitivi.
+
+
